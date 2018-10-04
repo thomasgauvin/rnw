@@ -1,0 +1,23 @@
+{
+  "name": "spotify-look-alike",
+  "version": "1.0.0",
+  "description": "tutorial on react and node while recreating spotify",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasgauvin/rnw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasgauvin/rnw/issues"
+  },
+  "homepage": "https://github.com/thomasgauvin/rnw#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
